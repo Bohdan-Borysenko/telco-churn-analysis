@@ -11,7 +11,7 @@ Product case study on the Telco Customer Churn dataset (subscription service).
 - High-paying customers are more likely to leave
 
 **Graphs:**  
-![Churn rate](<img width="1126" height="255" alt="1  Overall churn rate" src="https://github.com/user-attachments/assets/c138a02d-b168-45e8-bc73-24b310ec5434" />
+![Churn rate]([<img width="1126" height="255" alt="1  Overall churn rate" src="https://github.com/user-attachments/assets/c138a02d-b168-45e8-bc73-24b310ec5434"] />
 )  
 ![Churn by contract](<img width="1245" height="468" alt="2  Churn by contract type" src="https://github.com/user-attachments/assets/e8206015-debf-4ed2-bb30-d3608079b784" />
 )  
